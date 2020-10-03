@@ -28,9 +28,6 @@ const {
     removeGame
 } = require('../Server/Functions')
 
-let connectedPlayers = {}
-let games = {}
-
 const {
     words,
     displayWord,
@@ -41,16 +38,12 @@ const {
 const { Result } = require('../Shared/Enums')
 const { generateCards, getCard, resupplyCards } = require('../Game/Cards/Cards')
 
-module.exports = function(socket) {
-    //console.log('Connected, socket id: ' + socket.id)
-    let developmentMode = false
+let connectedPlayers = {}
+let games = {}
 
+module.exports = function(socket) {
     socket.on(VERIFY_USER, (nickname, callback) => {
         let ip = socket.request.connection.remoteAddress
-        // let isIpFreeChecker =
-        //     process.env.REACT_APP_STAGE.trim() === 'dev'
-        //         ? true
-        //         : isIpFree(ip, connectedPlayers)
 
         let isIpFreeChecker = isIpFree(ip, connectedPlayers)
         if (process.env.REACT_APP_STAGE) {
@@ -259,10 +252,7 @@ module.exports = function(socket) {
 
             currentGame.displayWord = displayWord(currentGame)
 
-            const debugMode = false
-
             let result = checkWin(currentGame, socket)
-            if (debugMode) result = Result.TURN_WIN
             currentGame.nextPlayerIndex = 1 - currentGame.nextPlayerIndex
 
             if (result !== Result.NOTHING) {

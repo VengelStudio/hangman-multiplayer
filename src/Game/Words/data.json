@@ -16,8 +16,7 @@
             "word": "retribution",
             "definitions": [
                 "Something justly deserved; recompense.",
-                "Something given or demanded in repayment, especially punishment.",
-                "Theology   Punishment or reward distributed in a future life based on performance in this one."
+                "Something given or demanded in repayment, especially punishment."
             ]
         },
         {
@@ -98,10 +97,6 @@
             ]
         },
         {
-            "word": "inline",
-            "definitions": ["(computing) To optimize using in-line expansion."]
-        },
-        {
             "word": "terrifying",
             "definitions": [
                 "Frightening or intimidating.",
@@ -154,27 +149,6 @@
         {
             "word": "renowned",
             "definitions": ["Having renown; famous."]
-        },
-        {
-            "word": "Salam",
-            "definitions": [
-                "A salutation or compliment of ceremony in the east by word or act; an obeisance, performed by bowing very low and placing the right palm on the forehead."
-            ]
-        },
-        {
-            "word": "Prussian",
-            "definitions": [
-                "Of or relating to Prussia or its Baltic or German inhabitants.",
-                "Suggestive of or resembling the Junkers and the military class of Prussia.",
-                "Any of the western Balts inhabiting the region between the Vistula and Neman rivers in ancient times."
-            ]
-        },
-        {
-            "word": "Moor",
-            "definitions": [
-                "A member of a Muslim people of mixed Berber and Arab descent, now living chiefly in northwest Africa.",
-                "One of the Muslims who invaded Spain in the 8th century and established a civilization in Andalusia that lasted until the late 15th century."
-            ]
         },
         {
             "word": "pomp",
@@ -356,12 +330,6 @@
             "definitions": ["Formed with a front; drawn up in line."]
         },
         {
-            "word": "Boer",
-            "definitions": [
-                "A Dutch colonist or descendant of a Dutch colonist in South Africa."
-            ]
-        },
-        {
             "word": "shop",
             "definitions": [
                 "A small retail store or a specialty department in a large store.",
@@ -403,7 +371,7 @@
             "definitions": [
                 "Offensive to accepted standards of decency or modesty.",
                 "Inciting lustful feelings; lewd.",
-                "Repulsive; disgusting: \"The way he writes about the disease that killed her is simply obscene”  ( Michael Korda). "
+                "Repulsive; disgusting."
             ]
         },
         {
@@ -509,7 +477,6 @@
             "word": "Stalinist",
             "definitions": [
                 "Of, relating to, or resembling Joseph Stalin, a Bolshevik revolutionary.",
-                "Of or relating to Stalinism.",
                 "A person who accepts the philosophy of Stalinism."
             ]
         },
@@ -519,22 +486,6 @@
                 "Fighting or warring.",
                 "Having a combative character; aggressive, especially in the service of a cause:  a militant political activist. ",
                 "A fighting, warring, or aggressive person or party."
-            ]
-        },
-        {
-            "word": "repo",
-            "definitions": [
-                "Informal   A repurchase agreement.",
-                "Informal   Repossession of merchandise or property from a buyer who has defaulted on payment.",
-                "Informal   Repossessed merchandise or property."
-            ]
-        },
-        {
-            "word": "pallid",
-            "definitions": [
-                "Having an abnormally pale or wan complexion:  the pallid face of the invalid. ",
-                "Lacking intensity of color or luminousness.",
-                "Lacking in radiance or vitality; dull:  pallid prose. "
             ]
         },
         {
@@ -572,10 +523,6 @@
             ]
         },
         {
-            "word": "opulence",
-            "definitions": ["Wealth; affluence.", "Great abundance; profusion."]
-        },
-        {
             "word": "staffing",
             "definitions": [
                 "the practice of hiring and firing staff",
@@ -602,7 +549,7 @@
             "definitions": [
                 "An occurrence causing widespread destruction and distress; a catastrophe.",
                 "A grave misfortune.",
-                "Informal   A total failure:  The dinner party was a disaster. "
+                "A total failure."
             ]
         },
         {
@@ -702,21 +649,6 @@
             "word": "waxing",
             "definitions": [
                 "A cosmetic procedure in which hair is removed from the body by the application and removal of wax."
-            ]
-        },
-        {
-            "word": "guinea",
-            "definitions": [
-                "A gold coin issued in England from 1663 to 1813 and worth one pound and one shilling.",
-                "The sum of one pound and one shilling."
-            ]
-        },
-        {
-            "word": "sham",
-            "definitions": [
-                "Something false or empty that is purported to be genuine; a spurious imitation.",
-                "The quality of deceitfulness; empty pretense.",
-                "One who assumes a false character; an impostor: \"He a man! Hell! He was a hollow sham!”  ( Joseph Conrad). "
             ]
         },
         {
@@ -824,10 +756,6 @@
             ]
         },
         {
-            "word": "Kevlar",
-            "definitions": ["A trademark used for a type of aramid fiber."]
-        },
-        {
             "word": "scorn",
             "definitions": [
                 "Contempt or disdain felt toward a person or object considered despicable or unworthy.",
@@ -863,8 +791,8 @@
         {
             "word": "Word",
             "definitions": [
-                "Scripture; The Bible",
-                "The creative word of God; logos"
+                "The Bible",
+                "The creative word of God"
             ]
         },
         {
@@ -951,13 +879,6 @@
             ]
         },
         {
-            "word": "Cynical",
-            "definitions": [
-                "Of or relating to the Cynics, a sect of ancient Greek philosophers who believed virtue to be the only good and self-control to be the only means of achieving virtue.",
-                "Concerned only with one's own interests and disregarding accepted standards to achieve them: A cynical fool"
-            ]
-        },
-        {
             "word": "touchy",
             "definitions": [
                 "Tending to take offense with slight cause; oversensitive.",
@@ -1005,8 +926,8 @@
             "word": "accelerator",
             "definitions": [
                 "A device, especially the gas pedal of a motor vehicle, for increasing speed.",
-                "Chemistry   A substance that increases the speed of a reaction.",
-                "Physics   A particle accelerator."
+                "A substance that increases the speed of a reaction.",
+                "A particle accelerator."
             ]
         },
         {
@@ -1177,11 +1098,10 @@
         {
             "word": "mapping",
             "definitions": [
-                "The act or process of making a map.",
-                "Mathematics   A rule of correspondence established between sets that associates each element of a set with an element in the same or another set."
+                "The act or process of making a map."
             ]
         },
-        { "word": "veggie", "definitions": ["Informal   A vegetable."] },
+        { "word": "veggie", "definitions": ["A vegetable."] },
         {
             "word": "slipper",
             "definitions": [
@@ -1235,8 +1155,7 @@
         {
             "word": "flea",
             "definitions": [
-                "Any of various small, wingless, bloodsucking insects of the order Siphonaptera that have legs adapted for jumping and are parasitic on warm-blooded animals.",
-                "Any of various small crustaceans that resemble or move like fleas, such as the water flea."
+                "Any of various small, wingless, bloodsucking insects, parasitic on warm-blooded animals."
             ]
         },
         {
@@ -1327,16 +1246,9 @@
             ]
         },
         {
-            "word": "decorum",
-            "definitions": [
-                "Appropriateness of behavior or conduct; propriety: \"In the Ireland of the 1940's ... the stolidity of a long, empty, grave face was thought to be the height of decorum and profundity”  ( John McGahern). ",
-                "The conventions or requirements of polite behavior:  the formalities and decorums of a military funeral. "
-            ]
-        },
-        {
             "word": "gunning",
             "definitions": [
-                "Maine   The sport of hunting: \"Usually any kind of a tight camp will be kept available through our gunning . . . season”  ( John Gould). "
+                "The sport of hunting."
             ]
         },
         {
@@ -1356,12 +1268,6 @@
             ]
         },
         {
-            "word": "Flinders",
-            "definitions": [
-                "Flinders, Sir  Matthew  1774-1814.  British explorer who sailed to New South Wales (1795) and subsequently made a thorough study of the Australian coast."
-            ]
-        },
-        {
             "word": "nervously",
             "definitions": [
                 "In a nervous manner; with nervosity; in a way that displays nervousness."
@@ -1371,24 +1277,21 @@
             "word": "chin",
             "definitions": [
                 "The central forward portion of the lower jaw.",
-                "To pull (oneself) up with the arms while grasping an overhead horizontal bar until the chin is level with the bar.",
-                "Music   To place (a violin) under the chin in preparation to play it."
+                "To pull (oneself) up with the arms while grasping an overhead horizontal bar until the chin is level with the bar."
             ]
         },
         {
             "word": "shameful",
             "definitions": [
                 "Causing shame; disgraceful.",
-                "Giving offense; indecent.",
-                "Archaic   Full of shame; ashamed."
+                "Giving offense; indecent."
             ]
         },
         {
             "word": "relational",
             "definitions": [
                 "Of or arising from kinship.",
-                "Indicating or constituting relation.",
-                "Grammar   Of, relating to, or being a word or particle, such as a conjunction or preposition, that expresses a syntactic relation between elements in a phrase or sentence."
+                "Indicating or constituting relation."
             ]
         },
         {
@@ -1438,20 +1341,6 @@
             "definitions": ["that receives a subsidy"]
         },
         {
-            "word": "Janus",
-            "definitions": [
-                "Roman Mythology   The god of gates and doorways, depicted with two faces looking in opposite directions.",
-                "The satellite of Saturn that is sometimes the fifth and sometimes the sixth in distance from the planet. Periodically, Janus and another of Saturn's moons, Epimetheus, exchange orbits."
-            ]
-        },
-        {
-            "word": "Edwardian",
-            "definitions": [
-                "Of, relating to, or characteristic of the reign of Edward VII of England.",
-                "A person belonging to or exhibiting characteristics typical of the Edwardian period."
-            ]
-        },
-        {
             "word": "filling",
             "definitions": [
                 "An act or instance of filling.",
@@ -1494,10 +1383,6 @@
             ]
         },
         {
-            "word": "forthwith",
-            "definitions": ["At once; immediately."]
-        },
-        {
             "word": "protective",
             "definitions": [
                 "Adapted or intended to afford protection.",
@@ -1519,9 +1404,7 @@
         {
             "word": "antagonism",
             "definitions": [
-                "Hostility that results in active resistance, opposition, or contentiousness.",
-                "The condition of being an opposing principle, force, or factor:  the inherent antagonism of capitalism and socialism. ",
-                "Biochemistry   Interference in the physiological action of a chemical substance by another having a similar structure."
+                "Hostility that results in active resistance, opposition, or contentiousness."
             ]
         },
         {
@@ -1569,19 +1452,9 @@
             ]
         },
         {
-            "word": "lavishly",
-            "definitions": ["In a lavish manner, expending profusely."]
-        },
-        {
-            "word": "Cheshire",
-            "definitions": [
-                "A hard yellow English cheese made from cow's milk."
-            ]
-        },
-        {
             "word": "prosper",
             "definitions": [
-                "To be fortunate or successful, especially in terms of one's finances; thrive."
+                "To be fortunate or successful, especially in terms of one's finances."
             ]
         },
         {
@@ -1599,9 +1472,7 @@
         {
             "word": "hype",
             "definitions": [
-                "Excessive publicity and the ensuing commotion:  the hype surrounding the murder trial. ",
-                "Exaggerated or extravagant claims made especially in advertising or promotional material: \"It is pure hype, a gigantic PR job”  ( Saturday Review). ",
-                "An advertising or promotional ploy: \"Some restaurant owners in town are cooking up a $75,000 hype to promote New York as 'Restaurant City, U.S.A.'”  ( New York). "
+                "Exaggerated or extravagant claims made especially in advertising or promotional material."
             ]
         },
         {
